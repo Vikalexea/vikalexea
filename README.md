@@ -1,5 +1,4 @@
 # Welcome! Hallo! Hola!
-<hr>
 
 ## Profile 
 ![](https://komarev.com/ghpvc/?username=Vikalexea&color=blue)
