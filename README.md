@@ -1,6 +1,5 @@
 <h1>Vikalexea</h1>
 
-## I use
 ![](https://img.shields.io/badge/HTML-grey)
 ![](https://img.shields.io/badge/CSS-grey)
 ![](https://img.shields.io/badge/JS-grey)
